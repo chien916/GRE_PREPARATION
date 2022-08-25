@@ -16,10 +16,15 @@ Q170::79	字母表中有26个字母
 Q170::82	MODE是众数的意思
 Q170::95	直角三角形中 斜边>直角边
 Q170::101	三角形中 两边之差<第三边<两边之和
-Q170::106	PERCENT MORE/LESS THAN后面的是要被称小数的
+Q170::106	PERCENT_MORE/LESS_THAN后面的是要被称小数的
 Q170::111	利率足够小 单利与复利基本相等
 Q170::112	MIN{P(A),P(B)}<=P(A)*P(B)<0
 Q170::114	一百内质数 前后9 前后7 前单7
 Q170::115	ARC是弯的弧 CHORD是直的弦
 Q170::124	10的N次方多为N位 除去本身
 Q170::125	握手定理 N握X次=N*X/2
+Q170::126	测试有多少个不同的因子 写成a^x+b^y+c^z+...形式 则不同因子有(x+1)*(y+1)*(z+1)个
+Q170::139	题目中问如果某一项为奇偶 则另一项必为奇偶 可以用TRUTH TABLE形式测试
+Q170::144	DIVISOR可以包含1和本身 而FACTOR不可以
+Q170::155	INTEREST_EARNED_PER_YEAR/TOTAL_DEPOSIT=ANNUAL_INTEREST_RATE
+ 
